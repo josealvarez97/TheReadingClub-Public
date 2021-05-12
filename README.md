@@ -1,5 +1,5 @@
 # TheReadingClub-Public
-I have been building this but it's private and for-profit. Check out the website (https://www.thereadingclubapp.com/) and download the iOS beta (https://testflight.apple.com/join/OGNZivve).
+I built this but it's private and for-profit. Check out the website (https://www.thereadingclubapp.com/) and download the iOS beta (https://testflight.apple.com/join/OGNZivve).
 
 - Developed learn-to-read app (https://www.thereadingclubapp.com/) that is highly interactive and leverages 
 data science tools to (1) engage kids and their parents or teachers in reading together, and (2) enable parents 
