@@ -8,14 +8,13 @@ _We’ve curated a collection of stories for the Junior, Intermediate, and Advan
 
 _Join The Reading Club and get ready to make reading together fun and impactful!_
 
-
-•	Developed learn-to-read app (https://www.thereadingclubapp.com/) that is highly interactive and leverages 
+- Developed learn-to-read app (https://www.thereadingclubapp.com/) that is highly interactive and leverages 
 data science tools to (1) engage kids and their parents or teachers in reading together, and (2) enable parents 
 to monitor and evaluate their children’s performance with custom reports.
-•	Programmed back-end API (Node.js) (e.g., CRUD endpoints, data aggregation, unit tests), and front-end (React) 
+- Programmed back-end API (Node.js) (e.g., CRUD endpoints, data aggregation, unit tests), and front-end (React) 
 (e.g., interactive data visualizations).
-•	Built mobile app available via Apple’s Test Flight (https://testflight.apple.com/join/OGNZivve).
-•	Implemented parallel data processing pipeline with Apache Beam Python SDK and the Dataflow Model to collect 
+- Built mobile app available via Apple’s Test Flight (https://testflight.apple.com/join/OGNZivve).
+- Implemented parallel data processing pipeline with Apache Beam Python SDK and the Dataflow Model to collect 
 hundreds of real-time events and power analytics platform.
-•	Designed MySQL database (application data) and BigQuery database (analytics events).
-•	Created custom Excel reports via XlsxWriter library (Python) with dozens of reading metrics.
+- Designed MySQL database (application data) and BigQuery database (analytics events).
+- Created custom Excel reports via XlsxWriter library (Python) with dozens of reading metrics.
