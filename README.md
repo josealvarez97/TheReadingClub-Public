@@ -1,13 +1,6 @@
 # TheReadingClub-Public
 I have been building this but it's private and for-profit. Check out the website (https://www.thereadingclubapp.com/) and download the iOS beta (https://testflight.apple.com/join/OGNZivve).
 
-_A learn-to-read app using cognitive science to make reading together fun and impactful._
-
-_Join the Club!_
-_We’ve curated a collection of stories for the Junior, Intermediate, and Advanced reading levels. Each of these levels has been carefully researched and analyzed with state-of-the-art metrics._
-
-_Join The Reading Club and get ready to make reading together fun and impactful!_
-
 - Developed learn-to-read app (https://www.thereadingclubapp.com/) that is highly interactive and leverages 
 data science tools to (1) engage kids and their parents or teachers in reading together, and (2) enable parents 
 to monitor and evaluate their children’s performance with custom reports.
@@ -18,5 +11,12 @@ to monitor and evaluate their children’s performance with custom reports.
 hundreds of real-time events and power analytics platform.
 - Designed MySQL database (application data) and BigQuery database (analytics events).
 - Created custom Excel reports via XlsxWriter library (Python) with dozens of reading metrics.
+
+_A learn-to-read app using cognitive science to make reading together fun and impactful._
+
+_Join the Club!_
+_We’ve curated a collection of stories for the Junior, Intermediate, and Advanced reading levels. Each of these levels has been carefully researched and analyzed with state-of-the-art metrics._
+
+_Join The Reading Club and get ready to make reading together fun and impactful!_
 
 ![GitHub Logo](/Logo-Bee-Reading-001.jpg)
