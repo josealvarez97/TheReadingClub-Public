@@ -18,3 +18,5 @@ to monitor and evaluate their children’s performance with custom reports.
 hundreds of real-time events and power analytics platform.
 - Designed MySQL database (application data) and BigQuery database (analytics events).
 - Created custom Excel reports via XlsxWriter library (Python) with dozens of reading metrics.
+
+![GitHub Logo](/Logo-Bee-Reading-001.jpg)
