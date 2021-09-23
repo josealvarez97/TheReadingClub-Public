@@ -1,5 +1,8 @@
 # TheReadingClub-Public
-I built this but it's private and for-profit. Check out the website (https://www.thereadingclubapp.com/) and download the iOS beta (https://testflight.apple.com/join/OGNZivve).
+## Note to recruiters: 
+### This is my best software project but it's private as the codebase is a legal asset of The Reading Club, Inc., which is currently incorporated in Canada. Please check out the website (https://www.thereadingclubapp.com/) and download the [Google Play Store Beta](https://play.google.com/apps/testing/com.TheReadingClub.TheReadingClub) or [iOS Beta](https://testflight.apple.com/join/OGNZivve).
+
+# [Please Watch this live demo of the app on YouTube (https://youtu.be/LWKeIVofna4)](https://youtu.be/LWKeIVofna4).
 
 - Developed learn-to-read app (https://www.thereadingclubapp.com/) that is highly interactive and leverages 
 data science tools to (1) engage kids and their parents or teachers in reading together, and (2) enable parents 
